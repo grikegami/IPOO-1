@@ -1,0 +1,13 @@
+//1- 	Faça um programa que crie quatro objetos de carro, onde tenham: Fabricante, Modelo, Ano de Fabricação, Ano de modelo e 
+	Valor de Venda. Grave esses carros em um Vetor[] e faça a exibição do mesmo.
+
+//2- 	Faça um programa que crie uma classe com o nome de Conta Bancária e os atributos Titular (string) e Saldo (Double).
+	Adicione os seguintes métodos à classe: Depositar(Double), Sacar(Double), Exibir_Saldo(Mostrando o saldo formatado),
+	ToString(Com as informações da conta).
+
+//3-	Faça um programa que crie uma classe Livro com os atributos Título(string) e Autor(string) e NúmeroDePág(int) positivo.
+	Crie um construtor que receba estes 3 valores, crie a função get para cada uma das propriedades. Reescreva a função 
+	Tostring para retornar os dados dos Livros.
+
+//1.1- 	Fazer uma função que calcule o IPVA do carro. (Adendo do Exercício Ex.1).  Criar classe motor, onde motor também é uma propriedada da classe carro.
+	Motor vai ter 3 propriedades (Combustível, Cilindrada, potência)

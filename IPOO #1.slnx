@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ex1/Ex1.csproj" />
+  <Project Path="Ex2/Ex2.csproj" Id="929f3534-c2cb-472b-ad9d-a8abd0853891" />
+  <Project Path="Ex3/Ex3.csproj" Id="a4682cac-35e1-4f8d-a8e9-ec6bb955a6c0" />
+  <Project Path="IPOO #1/IPOO #1.csproj" />
+</Solution>
